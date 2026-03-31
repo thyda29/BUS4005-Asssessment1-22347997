@@ -66,9 +66,9 @@ This means the prompts assist intake and triage decisions, but final judgement r
 
 | File | Prompt | Status |
 |------|--------|--------|
-| [P01-email-classification.md](P01-email-classification.md) | Classifies the customer email into a single main issue type | 🔄 In progress |
-| [P02-urgency-sentiment.md](P02-urgency-sentiment.md) | Detects urgency level and customer sentiment | 🔄 In progress |
-| [P03-missing-information-checker.md](P03-missing-information-checker.md) | Identifies what information is missing before a reply is drafted | 🔄 In progress |
+| [P01-email-classification.md](P01-email-classification.md) | Classifies the customer email into a single main issue type | ✅ Tested |
+| [P02-urgency-sentiment.md](P02-urgency-sentiment.md) | Detects urgency level and customer sentiment | ✅ Tested |
+| [P03-missing-information-checker.md](P03-missing-information-checker.md) | Identifies what information is missing before a reply is drafted | ✅ Tested |
 
 ---
 
