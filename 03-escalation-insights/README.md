@@ -72,9 +72,9 @@ These prompts help structure higher-level support work, but the business must st
 
 | File | Prompt | Status |
 |------|--------|--------|
-| [P08-escalation-summary.md](P08-escalation-summary.md) | Summarises serious or unresolved customer issues for escalation | 🔄 In progress |
-| [P09-faq-answer-generator.md](P09-faq-answer-generator.md) | Converts repeated enquiry types into reusable FAQ-style answers | 🔄 In progress |
-| [P10-weekly-support-summary.md](P10-weekly-support-summary.md) | Summarises weekly customer support patterns, risks, and improvement opportunities | 🔄 In progress |
+| [P08-escalation-summary.md](P08-escalation-summary.md) | Summarises serious or unresolved customer issues for escalation | ✅ Tested |
+| [P09-faq-answer-generator.md](P09-faq-answer-generator.md) | Converts repeated enquiry types into reusable FAQ-style answers | ✅ Tested |
+| [P10-weekly-support-summary.md](P10-weekly-support-summary.md) | Summarises weekly customer support patterns, risks, and improvement opportunities | ✅ Tested |
 
 ---
 
