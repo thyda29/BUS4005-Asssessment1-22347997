@@ -1,4 +1,4 @@
-<img width="468" height="244" alt="image" src="https://github.com/user-attachments/assets/4126d807-f03e-426e-b2a3-8d2a443d1983" /># BUS4005-Asssessment-1
+
 # Prompt Library — Retail Customer Support Workflow
 
 > **Assessment 1 | Generative AI for Business**  
@@ -219,7 +219,10 @@ This means the library supports **responsible augmentation**, not uncontrolled a
 ## References
 
 McKinsey & Company. (2023, June 14). The economic potential of generative AI: The next productivity frontier. https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier 
+
 Microsoft. (2026, February 27). Prompt engineering techniques. Microsoft Learn. https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/prompt-engineering 
+
 National Institute of Standards and Technology. (2023). Artificial Intelligence Risk Management Framework (AI RMF 1.0) (NIST AI 100-1). https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf 
+
 National Institute of Standards and Technology. (2024). Artificial Intelligence Risk Management Framework: Generative artificial intelligence profile (NIST AI 600-1). https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf 
  
