@@ -68,10 +68,10 @@ These prompts support faster drafting, but the final message should still be che
 
 | File | Prompt | Status |
 |------|--------|--------|
-| [P04-first-response-draft.md](P04-first-response-draft.md) | Drafts the first customer support reply after triage | 🔄 In progress |
-| [P05-refund-return-response.md](P05-refund-return-response.md) | Drafts a response for refund and return enquiries | 🔄 In progress |
-| [P06-delivery-delay-response.md](P06-delivery-delay-response.md) | Drafts a response for delayed delivery issues | 🔄 In progress |
-| [P07-complaint-recovery-response.md](P07-complaint-recovery-response.md) | Drafts an empathetic response for complaints and service recovery cases | 🔄 In progress |
+| [P04-first-response-draft.md](P04-first-response-draft.md) | Drafts the first customer support reply after triage | ✅ Tested |
+| [P05-refund-return-response.md](P05-refund-return-response.md) | Drafts a response for refund and return enquiries | ✅ Tested |
+| [P06-delivery-delay-response.md](P06-delivery-delay-response.md) | Drafts a response for delayed delivery issues | ✅ Tested |
+| [P07-complaint-recovery-response.md](P07-complaint-recovery-response.md) | Drafts an empathetic response for complaints and service recovery cases | ✅ Tested |
 
 ---
 
