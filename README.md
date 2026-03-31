@@ -75,16 +75,16 @@ prompt-library/
 
 | ID | Prompt Name | Workflow | Automation Level | Risk Level | Status |
 |----|-------------|----------|------------------|------------|--------|
-| P01 | Email classification | Intake and triage | Very High | Medium | 🔄 In progress |
-| P02 | Urgency and sentiment detection | Intake and triage | High | Medium | 🔄 In progress |
-| P03 | Missing information checker | Intake and triage | High | Low | 🔄 In progress |
-| P04 | First response email draft | Response drafting | High | Medium | 🔄 In progress |
-| P05 | Refund and return response | Response drafting | High | Medium | 🔄 In progress |
-| P06 | Delivery delay response | Response drafting | High | Medium | 🔄 In progress |
-| P07 | Complaint recovery response | Response drafting | Medium | High | 🔄 In progress |
-| P08 | Escalation summary | Escalation and review | Medium | High | 🔄 In progress |
-| P09 | FAQ answer generator | Knowledge support | Medium | Low | 🔄 In progress |
-| P10 | Weekly support insights summary | Reporting and improvement | Medium | Medium | 🔄 In progress |
+| P01 | Email classification | Intake and triage | Very High | Medium | ✅ Tested |
+| P02 | Urgency and sentiment detection | Intake and triage | High | Medium | ✅ Tested |
+| P03 | Missing information checker | Intake and triage | High | Low | ✅ Tested |
+| P04 | First response email draft | Response drafting | High | Medium | ✅ Tested |
+| P05 | Refund and return response | Response drafting | High | Medium | ✅ Tested |
+| P06 | Delivery delay response | Response drafting | High | Medium | ✅ Tested |
+| P07 | Complaint recovery response | Response drafting | Medium | High | ✅ Tested |
+| P08 | Escalation summary | Escalation and review | Medium | High | ✅ Tested |
+| P09 | FAQ answer generator | Knowledge support | Medium | Low | ✅ Tested |
+| P10 | Weekly support insights summary | Reporting and improvement | Medium | Medium | ✅ Tested |
 
 **Automation levels:** Very High / High / Medium / Low  
 **Risk levels:** High (always needs human review) / Medium (human review recommended) / Low (limited oversight needed)
