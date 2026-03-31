@@ -155,7 +155,7 @@ There is also a service-risk issue. If staff guess at delivery updates or overpr
 
 ---
 
-## 🔗 Related Prompts
+## Related Prompts
 
 - **Previous in chain:** [P04 — First response draft](P04-first-response-draft.md)
 - **Alternative related prompt:** [P05 — Refund and return response](P05-refund-return-response.md)
